@@ -24,14 +24,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
+  
 
 
   
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
-</p>
-
+ 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoamif&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whoamif&theme=dark&hide_border=false)
