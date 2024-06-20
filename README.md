@@ -6,7 +6,7 @@
 - 🚀 Currently exploring the Full Stack development journey
 - 👯 I’m looking to collaborate on web and game projects 
 - 💬 Ask me about game dev, web development 
-- 📫 How to reach me: adjissifatimaamin@gmail.com
+- 📫 How to reach me: adjissifatimaamina@gmail.com
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
